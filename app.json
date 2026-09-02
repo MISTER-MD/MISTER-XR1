@@ -1,0 +1,7 @@
+{
+  "name": "MISTER XR",
+  "version": "1.0.0",
+  "description": "MISTER XR WhatsApp Bot",
+  "main": "index.js",
+  "start": "node index.js"
+}

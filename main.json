@@ -1,0 +1,6 @@
+{
+  "name": "MISTER XR",
+  "entry": "index.js",
+  "type": "whatsapp-bot",
+  "engine": "baileys"
+}

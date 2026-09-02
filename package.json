@@ -1,0 +1,15 @@
+{
+"name": "mister-xr",
+"version": "1.0.0",
+"description": "MISTER XR - Professional WhatsApp Bot",
+"main": "index.js",
+"scripts": {
+"start": "node index.js"
+},
+"author": "MISTER XR",
+"license": "MIT",
+"dependencies": {
+"@whiskeysockets/baileys": "latest",
+"pino": "latest"
+}
+}
